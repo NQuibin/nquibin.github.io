@@ -1,2 +1,2 @@
 # nquibin.github.io
-Repo to redirect to /nikkiquibin
+Repo to redirect to `/nikkiquibin`.
